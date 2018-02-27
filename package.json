@@ -25,8 +25,8 @@
   ],
   "main": "./lib/passport-slack",
   "dependencies": {
-    "pkginfo": "0.2.x",
-    "passport-oauth": "~0.1.1"
+    "pkginfo": "0.4.x",
+    "passport-oauth": "1.x.x"
   },
   "engines": {
     "node": ">= 0.4.0"
